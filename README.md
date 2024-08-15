@@ -16,7 +16,7 @@ This analysis explores the educational landscape in India using data from the Un
 - **Step 2:** Cleaned the data to remove inconsistencies and missing values.
 - **Step 3:** Analyzed the data to determine the percentage of functional girls' toilets, drinking water facilities, and pupil-teacher ratios by state/UT.
 - **Step 4:** Created various charts and maps to visualize the data, highlighting key areas of concern and regions performing well.
-- **Step 5:** Produced a report summarizing findings, including graphical representations and detailed insights.
+- **Step 5:** Produced a Power BI report summarizing findings, including graphical representations and detailed insights.
 
 ## Snapshot of Dashboard (Power BI Service)
 
